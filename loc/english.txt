@@ -1,0 +1,31 @@
+{
+	"prohud_settings_menu_title" : "ProHud",
+	"prohud_settings_menu_desc"  : "Change Pro HUD Settings.",
+	"prohud_data_enable_title" : "Enable ProHud",
+	"prohud_data_enable_desc"  : "Disable ProHud to revert to standard PD2 hud.",
+  
+  "prohud_data_hide_phase_boxes_title" : "Hide Phase Boxes (assault, casing, etc.)",
+  "prohud_data_hide_phase_boxes_desc" : "Hide information about current game phase (upper right) on screen.",
+  "prohud_data_hide_objectives_title" : "Hide Objectives Box",
+  "prohud_data_hide_objectives_desc" : "Hide current objective box (upper left) on screen.",
+  "prohud_data_hide_messages_title" : "Hide Message Notifications",
+  "prohud_data_hide_messages_desc" : "Hides message notifications in center of screen.",
+  "prohud_data_hide_equipment_title" : "Hide Player Equipment",
+  "prohud_data_hide_equipment_desc" : "Hide information on current player equipment.",
+  "prohud_data_hide_ammo_title" : "Hide Ammo",
+  "prohud_data_hide_ammo_desc" : "Hide ammo amounts for player.",
+  "prohud_data_hide_health_title" : "Hide health",
+  "prohud_data_hide_health_desc" : "Hide health indicators for player.",
+  "prohud_data_hide_interactions_title" : "Hide Interactions",
+  "prohud_data_hide_interactions_desc" : "Hide progress wheel when you are interacting with something.",
+  "prohud_data_hide_team_interactions_title" : "Hide Team Interactions",
+  "prohud_data_hide_team_interactions_desc" : "Hide progress wheel when players are interacting with something.",
+  "prohud_data_hide_pickups_title" : "Hide Pickup Highlights",
+  "prohud_data_hide_pickups_desc" : "Hide pickup highlights that are on the ground.",
+  "prohud_data_hide_names_title" : "Hide Player Names",
+  "prohud_data_hide_names_desc" : "Hide names above players in game."
+  "prohud_data_hide_custody_title" : "Hide Custody Information",
+  "prohud_data_hide_custody_desc" : "Hide information pertaining to you being in custody."
+  "prohud_data_hide_downed_title" : "Hide Downed Information",
+  "prohud_data_hide_downed_desc" : "HideS information displayed when you are down."
+}

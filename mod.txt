@@ -1,0 +1,41 @@
+{
+	"name" : "Pro Hud",
+	"description" : "Pro HUD. Play professionally.",
+	"author" : "DrMonocles",
+	"contact" : "",
+	"version" : "0.1",
+	"hooks" : [
+    {
+      "hook_id" : "lib/managers/menumanager",
+      "script_path" : "ProHudMenu.lua"
+    },
+    {
+      "hook_id" : "lib/managers/hud/Hudteammate",
+      "script_path" : "prohud/hudteammate.lua"
+    },
+    {
+      "hook_id" : "lib/managers/hud/Hudobjectives",
+      "script_path" : "prohud/hudobjectives.lua"
+    },
+    {
+      "hook_id" : "lib/managers/hud/Hudpresenter",
+      "script_path" : "prohud/hudpresenter.lua"
+    },
+    {
+      "hook_id" : "lib/managers/hud/Hudassaultcorner",
+      "script_path" : "prohud/hudassaultcorner.lua"
+    },
+    {
+      "hook_id" : "lib/managers/hud/Hudinteraction",
+      "script_path" : "prohud/hudinteraction.lua"
+    },
+    {
+      "hook_id" : "lib/managers/hud/HudPlayerDowned",
+      "script_path" : "prohud/hudplayerdowned.lua"
+    },
+    {
+      "hook_id" : "lib/managers/hud/hudplayercustody",
+      "script_path" : "prohud/hudplayercustody.lua"
+    }
+  ]
+}
